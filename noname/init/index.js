@@ -487,6 +487,7 @@ export async function boot() {
 				list.push(name);
 			}
 			// @ts-ignore
+			// lib.config.image_background = "taoyuan_bg";
 			game.saveConfig("image_background", list.randomGet(lib.config.image_background));
 		}
 		lib.init.background();
