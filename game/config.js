@@ -72,7 +72,7 @@ window.config = {
 	recentIP: [],
 	brokenFile: [],
 
-	theme: "woodden",
+	theme: "music",
 	layout: "mobile",
 	card_style: "default",
 	cardback_style: "default",
