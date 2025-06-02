@@ -34,7 +34,7 @@ window.config = {
 	doubleclick_intro: true,
 	cheat: false,
 	volumn_background: 8,
-	volumn_audio: 8,
+	volumn_audio: 5,
 
 	connect_avatar: "caocao",
 	connect_nickname: "无名玩家",
@@ -74,9 +74,9 @@ window.config = {
 
 	theme: "music",
 	layout: "mobile",
-	card_style: "default",
-	cardback_style: "default",
-	hp_style: "default",
+	card_style: "music",
+	cardback_style: "liusha",
+	hp_style: "xinround",
 
 	image_character: "default",
 	image_background: "default",
