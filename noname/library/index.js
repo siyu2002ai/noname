@@ -1391,7 +1391,7 @@ export class Library {
 			config: {
 				theme: {
 					name: "主题",
-					init: "music",
+					init: "woodden",
 					item: {},
 					visualMenu: function (node, link) {
 						if (!node.menu) {
